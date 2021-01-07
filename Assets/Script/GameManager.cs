@@ -18,7 +18,7 @@ public class GameManager : MonoBehaviour
     bool isEmpty;
     private void Awake()
     {
-        spawnPoint[0] = new Vector3(-0.49f, -1.5f, 0);
+        spawnPoint[0] = new Vector3(-0.23f, -1.5f, 0);
         spawnPoint[1] = new Vector3(2.51f, -1.5f, 0);
         spawnPoint[2] = new Vector3(5.01f, -1.5f, 0);
     }
